@@ -1,0 +1,13 @@
+body {
+    background-color:hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+}
+h1 {
+    font-weight:700;
+    color:hsl(218, 44%, 22%);
+}
+p {
+    font-weight:400;
+    font-size:15px;
+    color:hsl(220, 15%, 55%);
+}
